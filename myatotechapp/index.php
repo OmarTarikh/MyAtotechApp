@@ -177,10 +177,10 @@
             </div>
             <div class="divider-line"></div>
             <div class="row pt-5 pb-5">
-                <div class="col-5 d-flex justify-content-end">
-                    <img src="img/typing.jpg" alt="office" class="about-img" style="width: 550px; border-radius: 10px; border: 5px solid #BF3131;">
+                <div class="col-6 d-flex justify-content-end">
+                    <img src="img/typing.jpg" alt="office" class="about-img object-fit-cover" style="width: 550px; border-radius: 10px; border: 5px solid #BF3131;">
                 </div>
-                <div class="col-7">
+                <div class="col-6">
                     <p class="about-text fs-4 d-flex justify-content-center" style="color: #BF3131;">Key Features :</p>
                     <ul class="text-center" style="list-style-type: none;">
                         <li>
@@ -282,7 +282,7 @@
                     </li>
                 </ul>
             </div>
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#fff" fill-opacity="1" d="M0,160L48,165.3C96,171,192,181,288,186.7C384,192,480,192,576,181.3C672,171,768,149,864,144C960,139,1056,149,1152,149.3C1248,149,1344,139,1392,133.3L1440,128L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 310"><path fill="#fff" fill-opacity="1" d="M0,160L48,165.3C96,171,192,181,288,186.7C384,192,480,192,576,181.3C672,171,768,149,864,144C960,139,1056,149,1152,149.3C1248,149,1344,139,1392,133.3L1440,128L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
         </div>
             <!-- milestones-page-end -->
             <!-- companybrief-page-start -->
@@ -323,7 +323,7 @@
                 <div class="card text-center w-100 h-100 " style="border: 3px solid #BF3131; border-radius: 15px;" id="card-services" >
                     <div class="card-body">
                         <svg style="width: 50px; height: 50px; margin-bottom: 20px; margin-top: 25px;" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="#BF3131" d="M71.68 97.22L34.74 128l36.94 30.78a12 12 0 1 1-15.36 18.44l-48-40a12 12 0 0 1 0-18.44l48-40a12 12 0 0 1 15.36 18.44m176 21.56l-48-40a12 12 0 1 0-15.36 18.44L221.26 128l-36.94 30.78a12 12 0 1 0 15.36 18.44l48-40a12 12 0 0 0 0-18.44M164.1 28.72a12 12 0 0 0-15.38 7.18l-64 176a12 12 0 0 0 7.18 15.37a11.8 11.8 0 0 0 4.1.73a12 12 0 0 0 11.28-7.9l64-176a12 12 0 0 0-7.18-15.38"/></svg>
-                        <h4 class="card-title mb-2 mt-3 fw-bold" style="color: #BF3131; opacity: 0.7;">Software & System Development</h4>
+                            <h4 class="card-title mb-2 mt-3 fw-bold" style="color: #BF3131; opacity: 0.7;">IT Development</h4>
                         <p class="card-text mt-2 fs-6" style="opacity: 0.7;">Create software and system projects for our client needs</p>
                     </div>
                 </div>                  
@@ -332,8 +332,8 @@
                 <div class="card text-center w-100 h-100 " style="border: 3px solid #BF3131; border-radius: 15px;" id="card-services">
                     <div class="card-body">
                         <svg style="width: 45px; height: 45px; margin-bottom: 20px; margin-top: 25px;" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="#BF3131" d="M3 17.25V21h3.75L17.81 9.93l-3.75-3.75zm19.61 1.11l-4.25 4.25l-5.2-5.2l1.77-1.77l1 1l2.47-2.48l1.42 1.42L18.36 17l1.06 1l1.42-1.4zm-16-7.53L1.39 5.64l4.25-4.25L7.4 3.16L4.93 5.64L6 6.7l2.46-2.48l1.42 1.42l-1.42 1.41l1 1zM20.71 7c.39-.39.39-1 0-1.41l-2.34-2.3c-.37-.39-1.02-.39-1.41 0l-1.84 1.83l3.75 3.75z"/></svg>
-                        <h4 class="card-title mb-2 mt-3 fw-bold" style="color: #BF3131; opacity: 0.7;">Graphic & UI/UX Designs</h4>
-                        <p class="card-text mt-2 mb-0 fs-6" style="opacity: 0.7;">Create a designs that are friendly and efficient in the eyes of users</p>
+                        <h4 class="card-title mb-2 mt-3 fw-bold" style="color: #BF3131; opacity: 0.7;">Design Making</h4>
+                        <p class="card-text mt-2 fs-6" style="opacity: 0.7;">Create a designs that are friendly and efficient in the eyes of users</p>
                     </div>
                 </div>
             </div>
@@ -341,8 +341,8 @@
                     <div class="card text-center w-100 h-100 " style="border: 3px solid #BF3131; border-radius: 15px;" id="card-services" >
                         <div class="card-body">
                             <svg style="width: 50px; height: 50px; margin-bottom: 20px; margin-top: 25px;" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="#BF3131" d="m5.85 12l-.3-1.5q-.3-.125-.562-.262T4.45 9.9L3 10.35l-1-1.7l1.15-1Q3.1 7.325 3.1 7t.05-.65L2 5.35l1-1.7l1.45.45q.275-.2.538-.338T5.55 3.5l.3-1.5h2l.3 1.5q.3.125.563.263t.537.337l1.45-.45l1 1.7l-1.15 1q.05.325.05.65t-.05.65l1.15 1l-1 1.7l-1.45-.45q-.275.2-.537.338t-.563.262l-.3 1.5zm1-3q.825 0 1.413-.587T8.85 7t-.587-1.412T6.85 5t-1.412.588T4.85 7t.588 1.413T6.85 9m7.95 14l-.45-2.1q-.425-.15-.787-.363t-.713-.487l-2 .65l-1.4-2.4l1.6-1.4Q11 16.45 11 16t.05-.9l-1.6-1.4l1.4-2.4l2 .65q.35-.275.713-.488t.787-.362L14.8 9h2.8l.45 2.1q.425.15.788.363t.712.487l2-.65l1.4 2.4l-1.6 1.4q.05.45.05.9t-.05.9l1.6 1.4l-1.4 2.4l-2-.65q-.35.275-.712.487t-.788.363L17.6 23zm1.4-4q1.25 0 2.125-.875T19.2 16t-.875-2.125T16.2 13t-2.125.875T13.2 16t.875 2.125T16.2 19"/></svg>
-                            <h4 class="card-title mb-2 mt-3 fw-bold" style="color: #BF3131; opacity: 0.7;">Hardware & IoT Manufacturing</h4>
-                            <p class="card-text mt-2 mb-0 fs-6" style="opacity: 0.7;">We manufacture technologies that are advance for our clients</p>
+                            <h4 class="card-title mb-2 mt-3 fw-bold" style="color: #BF3131; opacity: 0.7;">Tech Manufacture</h4>
+                            <p class="card-text mt-2 fs-6" style="opacity: 0.7;">We manufacture technologies that are advance for our clients</p>
                         </div>
                     </div>
                 </div>
@@ -350,8 +350,8 @@
                 <div class="card text-center me-5 w-100 h-100 " style="border: 3px solid #BF3131; border-radius: 15px;" id="card-services" >
                     <div class="card-body">
                         <svg style="width: 55px; height: 55px; margin-bottom: 20px; margin-top: 25px;" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="#BF3131" d="M15 8v8H5V8zm1-2H4a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-3.5l4 4v-11l-4 4V7a1 1 0 0 0-1-1"/></svg>
-                        <h4 class="card-title mb-2 mt-3 fw-bold" style="color: #BF3131; opacity: 0.7;">Photograph & Video Making </h4>
-                        <p class="card-text mt-2 mb-0 fs-6" style="opacity: 0.7;">We Create visual branding with amazing result for our clients</p>
+                        <h4 class="card-title mb-2 mt-3 fw-bold" style="color: #BF3131; opacity: 0.7;">Advert Making</h4>
+                        <p class="card-text mt-2 fs-6" style="opacity: 0.7;">We Create visual branding with amazing result for our clients</p>
                     </div>
                 </div>
             </div>         
@@ -359,16 +359,17 @@
                     <div class="card text-center w-100 h-100 " style="border: 3px solid #BF3131; border-radius: 15px;" id="card-services" >
                         <div class="card-body">
                             <svg style="width: 55px; height: 55px; margin-bottom: 20px; margin-top: 25px;" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="#BF3131" d="M2 19v-2h10v2zm0-5v-2h5v2zm0-5V7h5v2zm18.6 10l-3.85-3.85q-.6.425-1.312.638T14 16q-2.075 0-3.537-1.463T9 11t1.463-3.537T14 6t3.538 1.463T19 11q0 .725-.213 1.438t-.637 1.312L22 17.6zM14 14q1.25 0 2.125-.875T17 11t-.875-2.125T14 8t-2.125.875T11 11t.875 2.125T14 14"/></svg>
-                            <h4 class="card-title mb-2 mt-3 fw-bold" style="color: #BF3131; opacity: 0.7;">Software & System Management</h4>
-                            <p class="card-text mt-2 mb-0 fs-6" style="opacity: 0.7;">We manage our clients project, so they just sit back and relax</p>
+                            <h4 class="card-title mb-2 mt-3 fw-bold" style="color: #BF3131; opacity: 0.7;">IT Management</h4>
+                            <p class="card-text mt-2 fs-6" style="opacity: 0.7;">We manage our clients project, so they just sit back and relax</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-sm-3 mb-2">
                     <div class="card text-center w-100 h-100 " style="border: 3px solid #BF3131; border-radius: 15px;" id="card-services" >
                         <div class="card-body">
-                            <svg style="width: 55px; height: 55px; margin-bottom: 20px; margin-top: 25px;" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="#BF3131" d="M6 8c0-2.21 1.79-4 4-4s4 1.79 4 4s-1.79 4-4 4s-4-1.79-4-4m6 10.2c0-.96.5-1.86 1.2-2.46v-.24c0-.39.07-.76.18-1.12c-1.03-.24-2.17-.38-3.38-.38c-4.42 0-8 1.79-8 4v2h10zm10 .1v3.5c0 .6-.6 1.2-1.3 1.2h-5.5c-.6 0-1.2-.6-1.2-1.3v-3.5c0-.6.6-1.2 1.2-1.2v-1.5c0-1.4 1.4-2.5 2.8-2.5s2.8 1.1 2.8 2.5V17c.6 0 1.2.6 1.2 1.3m-2.5-2.8c0-.8-.7-1.3-1.5-1.3s-1.5.5-1.5 1.3V17h3z"/></svg>                            <h4 class="card-title mb-2 mt-3 fw-bold" style="color: #BF3131; opacity: 0.7;">Cybersecurity Services</h4>
-                            <p class="card-text mt-2 mb-0 fs-6" style="opacity: 0.7;">We provides security ensuring protection for out clients data effectively.</p>
+                            <svg style="width: 55px; height: 55px; margin-bottom: 20px; margin-top: 25px;" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="#BF3131" d="M6 8c0-2.21 1.79-4 4-4s4 1.79 4 4s-1.79 4-4 4s-4-1.79-4-4m6 10.2c0-.96.5-1.86 1.2-2.46v-.24c0-.39.07-.76.18-1.12c-1.03-.24-2.17-.38-3.38-.38c-4.42 0-8 1.79-8 4v2h10zm10 .1v3.5c0 .6-.6 1.2-1.3 1.2h-5.5c-.6 0-1.2-.6-1.2-1.3v-3.5c0-.6.6-1.2 1.2-1.2v-1.5c0-1.4 1.4-2.5 2.8-2.5s2.8 1.1 2.8 2.5V17c.6 0 1.2.6 1.2 1.3m-2.5-2.8c0-.8-.7-1.3-1.5-1.3s-1.5.5-1.5 1.3V17h3z"/></svg>
+                            <h4 class="card-title mb-2 mt-3 fw-bold" style="color: #BF3131; opacity: 0.7;">Cybersecurity</h4>
+                            <p class="card-text mt-2 fs-6" style="opacity: 0.7;">We provides security ensuring protection for out clients data effectively.</p>
                         </div>
                     </div>
                 </div>
